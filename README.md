@@ -1,5 +1,7 @@
 # C204 - Algoritmos e Estruturas de Dados III
 
+![C++](https://img.shields.io/badge/C++-239120?style=flat&logo=c++&logoColor=white)
+
 Repositório acadêmico para armazenar exercícios, relatórios e projetos desenvolvidos nas aulas da disciplina **C202 - Algoritmos e Estruturas de Dados III**
 
 ## Estrutura do Repositório
